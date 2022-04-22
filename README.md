@@ -1,5 +1,10 @@
 # progressive-web-app-react18
  A  simple note-taking app with React JS and then making it a Progressive Web App.
+ 
+ ## Preview
+To see this a live deploy of this project
+
+  * [Note taking](https://note-taking-react18.netlify.app)
 
 # Installation
 
